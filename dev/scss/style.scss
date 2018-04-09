@@ -3,3 +3,61 @@ $primary: #006699;
 h2 {
 	color: $primary;
 }
+
+.scheduleDiv {
+
+    margin-top: -16px;
+		height: 34px;
+	}
+
+.scheduleDivsss {
+	width: 50%;
+    background: red;
+    margin-top: -16px;
+    margin-left: 69px;
+    height: 32px;
+	}
+
+.scheduleWorkDivbottom {
+	float: left;
+	height: -webkit-fill-available;
+	background: #8ac8e7;
+	margin-top: -16px;
+	border-left-style: solid;
+	border-left-color: blue;
+	width: 40%;
+	border-top: dotted;
+	border-bottom: solid;
+}
+
+.scheduleWorkDivNoSchfalse{
+		background: #f1eeee;
+		float: left;
+		height: -webkit-fill-available;
+		margin-top: -16px;
+		width: 40%;
+		border-top: dotted;
+		border-bottom: solid;
+}
+
+.scheduleWorkDivNoSchtrue{
+		background: #f1eeee;
+		float: left;
+		height: -webkit-fill-available;
+		margin-top: -16px;
+		width: 40%;
+		border-top: solid;
+		border-bottom: dotted;
+}
+
+.scheduleWorkDivtop {
+	float: left;
+	height: -webkit-fill-available;
+	background: #8ac8e7;
+	margin-top: -16px;
+	border-left-style: solid;
+	border-left-color: blue;
+	width: 40%;
+	border-top: solid;
+	border-bottom: dotted;
+}

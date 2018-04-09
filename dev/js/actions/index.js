@@ -1,7 +1,5 @@
-export const selectUser = (user) => {
-    console.log("You clicked on user: ", user.first);
+export const getSchedule = () => {
     return {
-        type: 'USER_SELECTED',
-        payload: user
+        type: 'GET_SCHEDULE'
     }
 };
